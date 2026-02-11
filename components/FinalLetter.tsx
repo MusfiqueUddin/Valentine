@@ -143,25 +143,23 @@ export default function FinalLetter({ onRestart }: FinalLetterProps) {
                   </svg>
                 </div>
                 <h3 className="text-xl sm:text-2xl font-extrabold text-[#1b0d14]">
-                  Final Love Letter
+                  Final Letter
                 </h3>
               </div>
             </div>
 
             <article className="handwriting text-sm sm:text-base text-[#1b0d14] leading-relaxed space-y-4">
               <p className="text-[#f04299] font-semibold">
-                My sweetest Cutiepie,
+                My Heart,
               </p>
               <p>
-                You&apos;re the calm I reach for and the laugh that brightens my
-                day.
+                I just want to take a moment to wish you the most beautiful life, filled with happiness, peace, and success. I pray that every dream you carry in your heart slowly turns into reality, and that every step you take leads you closer to the life you deserve.
               </p>
               <p className="text-[#5a9bb8]">
-                I hope this tiny world made you smile — and whispered how much
-                you mean to me.
+                May your days be bright, your nights be calm, and your heart always feel safe and deeply loved. I hope you always remember how precious you are, not just to me, but to this world.
               </p>
               <p>
-                I&apos;ll keep making memories, big and small, always with you.
+                And no matter what happens, I wish to always stand beside you, supporting you, protecting you, and loving you more each day. ❤️
               </p>
               <p className="text-[#a67fb8]">
                 Forever yours, in every little universe.

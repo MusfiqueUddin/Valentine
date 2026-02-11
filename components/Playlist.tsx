@@ -20,8 +20,8 @@ interface Track {
 const tracks: Track[] = [
   {
     id: 1,
-    title: 'Dil Cheeze Tujhe Dedi',
-    description: 'You own this heart — dedicated to you 💞',
+    title: 'I Wanna be Yours',
+    description: 'I want to be yours, completely and forever. ❤️',
     image: '/assets/music1.png',
     audio: '/assets/music1-Bpgt1BZ5.mp3',
   },
@@ -34,8 +34,8 @@ const tracks: Track[] = [
   },
   {
     id: 3,
-    title: 'Dil ka Jo Haal hai',
-    description: 'Tu Kaare Dil Bekarar 💞',
+    title: 'Falling in Love',
+    description: 'Falling for you became the most beautiful thing that ever happened to me. ❤️',
     image: '/assets/music3.png',
     audio: '/assets/music3-ClPh4k2q.mp3',
   },

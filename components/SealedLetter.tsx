@@ -212,7 +212,7 @@ export default function SealedLetter({
                 onClick={handleSendKiss}
                 className="rounded-full bg-[#9be7c4] px-5 py-2.5 text-sm sm:text-base font-medium shadow hover:brightness-95 transition cursor-pointer"
               >
-                Send a Virtual Kiss 💋
+                Send a Virtual Kiss 😘
               </button>
             </div>
           </motion.div>

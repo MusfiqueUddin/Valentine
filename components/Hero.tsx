@@ -182,8 +182,9 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2 }}
             >
-              Hey Princess! 💕
+              Happy Valentine’s Day, Rumpa❤️
             </motion.h1>
+            
 
             <motion.div
               className="text-[#1b0d14]/80 text-base md:text-lg leading-relaxed relative mx-auto max-w-lg"
@@ -192,8 +193,10 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
               transition={{ delay: 0.4 }}
             >
               <p>
-                I Wanted to do something special for you, for this princess day,
-                so I made something special just for you...
+                I wanted to do something special for you.
+                You wrote me the most beautiful letter,
+                and now it’s my turn!  😉 
+                So I made something just for you… 💌✨
               </p>
               <p className="pt-3">
                 <span className="font-semibold text-[#f04299]">
@@ -233,7 +236,7 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
         </motion.div>
 
         <div className="mt-8 text-xs text-[#9a4c73] text-center">
-          Made with love, only for you 💕
+          Mushfiq ❤️ Rumpa
         </div>
       </div>
     </div>

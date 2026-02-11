@@ -20,7 +20,7 @@ const cards: Card[] = [
   {
     id: 1,
     image: '/assets/pic1.png',
-    message: 'I Love u Divya 💕',
+    message: 'I Love You Rumpa💕',
     gradient: 'from-pink-200 to-purple-200',
     delay: 0,
   },
@@ -28,7 +28,7 @@ const cards: Card[] = [
     id: 2,
     image: '/assets/pic2.png',
     message:
-      "You don't even have to try — you just make everything around you feel lighter, warmer, better. ✨",
+      "You are my peace, my strength, and the most beautiful part of my life✨",
     gradient: 'from-blue-200 to-teal-200',
     delay: 0.2,
   },
@@ -36,7 +36,7 @@ const cards: Card[] = [
     id: 3,
     image: '/assets/pic3.png',
     message:
-      "The little things you do — your expressions, your laughter, the way you talk — they've all become my favorite details. 🌸",
+      "The little things you do, your expressions, your laughter, the way you talk they've all become my favorite details. 🌸",
     gradient: 'from-yellow-200 to-orange-200',
     delay: 0.4,
   },

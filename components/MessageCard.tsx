@@ -277,7 +277,7 @@ export default function MessageCard({
                                 💝
                               </div>
                               <span className="text-sm font-semibold text-[#9a4c73]">
-                                My Sweetest Love
+                                My Sweetheart
                               </span>
                             </div>
                           </div>
@@ -285,18 +285,21 @@ export default function MessageCard({
                           {/* Letter body */}
                           <div className="handwriting text-sm sm:text-base leading-relaxed text-[#1b0d14] pb-20 pt-6">
                             <div className="mb-4 text-[#f04299] font-medium">
-                              My dearest Divya,
+                              My Rumpa,
                             </div>
                             <div
                               className="mb-6 text-justify"
                               style={{ textIndent: '2rem' }}
                             >
-                              Every moment with you feels like a beautiful dream
-                              that I never want to wake up from. I want you to
-                              know that you are the most precious person in my
-                              life. Every day with you is a gift, and I&apos;m
-                              grateful for every second we share together. You
-                              make me want to be the best version of myself.
+                              If I could put my heart into words, it would still never be enough to explain what you mean to me. You didn’t just enter my life you changed it. You turned my fears into calm, my doubts into confidence, and my ordinary days into something beautiful just by being there.
+
+Loving you feels so natural, like breathing. Effortless. Certain. Safe. When I think about my future, I don’t see places or things, I see you. Your smile in the morning. Your voice at the end of a long day. Your hand in mine when life feels uncertain.
+
+You are my comfort in chaos, my light in dark moments, my quiet happiness that no one else can see but I feel so deeply. With you, I don’t just feel loved I feel chosen, valued, understood. And that is everything.
+
+If I had to live this life a thousand times, I would search for you in every single one of them. And I would choose you. Again. And again. And again.
+
+Forever yours. 💖
                             </div>
                             <div className="mt-8 ml-auto w-fit">
                               <div className="font-medium text-[#f04299]">
